@@ -85,7 +85,7 @@ class MoviesTable extends React.Component {
                     </TableCell>
                     <TableCell>{movie.genre}</TableCell>
                     <TableCell align="right">{movie.rate}</TableCell>
-                    <TableCell>{movie.director.name}</TableCell>
+                    <TableCell>{(movie.director && movie.director.name) || 'No Director'}</TableCell>
                     <TableCell>
                       <Checkbox checked={movie.watched} disabled />
                     </TableCell>
