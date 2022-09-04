@@ -1,4 +1,5 @@
-# GraphQL Course - https://www.youtube.com/playlist?list=PLNkWIWHIRwMF2sVLwzRef0Cu5kzAOeRcu
+# GraphQL Course
+https://www.youtube.com/playlist?list=PLNkWIWHIRwMF2sVLwzRef0Cu5kzAOeRcu
 
 # Before start
 1. Create a MongoDB instance.
