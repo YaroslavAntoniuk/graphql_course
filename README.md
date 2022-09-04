@@ -10,5 +10,6 @@
 2. `npm run dev`
 
 # Run frontend
-1. `npm i`
-2. `npm run start`
+1. `cd application`
+2. `npm i`
+3. `npm run start`
